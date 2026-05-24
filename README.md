@@ -1,4 +1,4 @@
-# PacketHunter
+# PacketScope
 PacketHunter is a Python-based network packet analysis tool developed using the PyShark library. The tool is designed to read and analyze .pcapng network capture files, extract important packet information, and display the results in a clean tabular format.
 
 PacketHunter captures and organizes key network traffic details such as:
