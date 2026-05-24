@@ -1,6 +1,3 @@
-# Python-for-Cybersecurity
-Practical cybersecurity Python projects for SOC operations, automation, and network security.
-
 # PacketHunter
 PacketHunter is a Python-based network packet analysis tool developed using the PyShark library. The tool is designed to read and analyze .pcapng network capture files, extract important packet information, and display the results in a clean tabular format.
 
@@ -23,28 +20,3 @@ Working with PCAP files and packet parsing
 
 PacketHunter can be useful for cybersecurity students, SOC analysts, and network administrators who want a lightweight tool for analyzing captured network traffic in a simple and readable way.
 
-# HashForge - SHA-256 Password Recovery Tool
-
-## Disclaimer
-This tool is for educational and authorized security testing only.
-
-## Overview
-HashForge is a Python-based SHA-256 dictionary attack tool that uses the rockyou wordlist to demonstrate password hashing vulnerabilities.
-
-## Features
-- SHA-256 hash cracking
-- Rockyou wordlist support
-- Multi-threaded execution
-- Live progress monitoring
-- Performance statistics (H/s, runtime)
-- Clean CLI output interface
-
-## Technologies
-- Python 3
-- Pwntools
-- hashlib
-- ThreadPoolExecutor
-
-## Usage
-```bash
-python3 hashforge.py <sha256_hash>
