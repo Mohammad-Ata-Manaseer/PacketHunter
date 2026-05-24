@@ -1,7 +1,7 @@
 # Network-HunterX
-PacketHunter is a Python-based network packet analysis tool developed using the PyShark library. The tool is designed to read and analyze .pcapng network capture files, extract important packet information, and display the results in a clean tabular format.
+Network-HunterX is a Python-based network packet analysis tool developed using the PyShark library. The tool is designed to read and analyze .pcapng network capture files, extract important packet information, and display the results in a clean tabular format.
 
-PacketHunter captures and organizes key network traffic details such as:
+Network-HunterX captures and organizes key network traffic details such as:
 
 Source and destination IP addresses
 Source and destination MAC addresses
@@ -18,5 +18,5 @@ Cybersecurity monitoring
 Python scripting for security operations
 Working with PCAP files and packet parsing
 
-PacketHunter can be useful for cybersecurity students, SOC analysts, and network administrators who want a lightweight tool for analyzing captured network traffic in a simple and readable way.
+Network-HunterX can be useful for cybersecurity students, SOC analysts, and network administrators who want a lightweight tool for analyzing captured network traffic in a simple and readable way.
 
